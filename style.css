@@ -6,6 +6,43 @@ body {
 	background-size: cover;
 }
 
+/* CLASSES */
+.trans-bg {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	height: 100%;
+	width: 100%;
+	background-color: white;
+	opacity: 0.8;
+	z-index: -1;
+}
+
+.content {
+	position: fixed;
+	right: 5%;
+	top: 5%;
+	bottom: 5%;
+	width: 65%;
+}
+
+.content-txt {
+	position: absolute;
+	left: 2%;
+	right: 2%;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+.content-scroll {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	height: 100%;
+	width: 100%;
+	overflow: auto;
+}
+
+/* SIDEBAR */
 #navi {
 	position: fixed;
 	top: 5%;
@@ -14,8 +51,7 @@ body {
 	height: 12%;
 	text-align: center;
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
-	background-color: white;
-	opacity: 0.65;
+	font-size: 110%;
 }
 
 /* HEADER */
@@ -36,8 +72,6 @@ body {
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
 	font-variant: small-caps;
 	font-size: 95%;
-	z-index: 6;
-
 }
 
 #header-content img {
@@ -45,16 +79,5 @@ body {
 	height: auto;
 }
 
-/* CLASSES */
-.trans-bg {
-	position: absolute;
-	top: 0px;
-	left: 0px;
-	height: 100%;
-	width: 100%;
-	background-color: white;
-	opacity: 0.65;
-	z-index: 0;
-}
 
 
