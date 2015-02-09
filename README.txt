@@ -7,3 +7,8 @@ LINKS REFERENCED:
 
 
 HOURS: 8
+
+TO DO:
+- fill out resume
+- write bio
+- add links to github and linkedin
