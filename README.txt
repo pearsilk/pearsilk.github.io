@@ -6,9 +6,12 @@ LINKS REFERENCED:
 - http://www.w3schools.com/ (a lot for various things)
 
 
-HOURS: 8
+HOURS: 9
+
+- added redirect from www.cs.tufts.edu/~lfukus01
 
 TO DO:
 - fill out resume
 - write bio
 - add links to github and linkedin
+- add 'last updated' part in sidebar
