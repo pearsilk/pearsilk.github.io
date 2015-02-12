@@ -8,6 +8,8 @@ Last Updated: Feb 12, 2015
 
 HOURS: 15
 
+As far as I know, I feel that everything has been implemented correctly. I worked on this assignment alone.
+
 LINKS REFERENCED:
 - http://www.cssportal.com/css3-preview/showing-and-hiding-content-with-pure-css3.php
 - http://learnlayout.com/position.html
