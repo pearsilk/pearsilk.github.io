@@ -14,7 +14,7 @@ span.emphasis {
 	font-weight: 900;
 }
 
-span.de-emphasis {
+.de-emphasis {
 	font-size: 88%;
 }
 
@@ -23,6 +23,15 @@ h1.emphasis {
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
 	text-decoration: underline;
 	text-align: center;
+}
+
+h2.margin-custom {
+	margin-top: 5%;
+	margin-bottom: 0%;
+}
+
+ul.margin-custom {
+	margin-top: 1%;
 }
 
 .trans-bg {
@@ -46,17 +55,16 @@ h1.emphasis {
 
 .content-txt {
 	position: absolute;
-	left: 2%;
-	right: 2%;
+	left: 3%;
+	right: 3%;
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
 }
 
 .content-scroll {
 	position: absolute;
-	top: 2%;
-	bottom: 2%;
+	top: 3%;
 	left: 0%;
-	height: 95%;
+	height: 94%;
 	width: 100%;
 	overflow: auto;
 }
