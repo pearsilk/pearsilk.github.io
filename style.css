@@ -7,6 +7,24 @@ body {
 }
 
 /* CLASSES */
+
+span.emphasis {
+	font-variant: small-caps;
+	font-size: 130%;
+	font-weight: 900;
+}
+
+span.de-emphasis {
+	font-size: 88%;
+}
+
+h1.emphasis {
+	font-variant: small-caps;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	text-decoration: underline;
+	text-align: center;
+}
+
 .trans-bg {
 	position: absolute;
 	top: 0px;
