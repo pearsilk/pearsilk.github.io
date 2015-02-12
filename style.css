@@ -8,30 +8,30 @@ body {
 
 /* CLASSES */
 
-span.emphasis {
+span.inline-emphasis {
 	font-variant: small-caps;
 	font-size: 130%;
 	font-weight: 900;
 }
 
-.de-emphasis {
-	font-size: 88%;
-}
-
-h1.emphasis {
+h1.headline-emphasis {
 	font-variant: small-caps;
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
 	text-decoration: underline;
 	text-align: center;
 }
 
-h2.margin-custom {
+h2.subheader-margin {
 	margin-top: 5%;
 	margin-bottom: 0%;
 }
 
-ul.margin-custom {
+ul.bullet-margin {
 	margin-top: 1%;
+}
+
+.de-emphasis {
+	font-size: 88%;
 }
 
 .trans-bg {
