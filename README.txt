@@ -1,3 +1,13 @@
+ASSIGNMENT 1 - MY PORTFOLIO
+(Using strictly only HTML5 and CSS3)
+COMP 20
+
+Lisa Fukushima
+Completed: Feb 12, 2015
+Last Updated: Feb 12, 2015
+
+HOURS: 15
+
 LINKS REFERENCED:
 - http://www.cssportal.com/css3-preview/showing-and-hiding-content-with-pure-css3.php
 - http://learnlayout.com/position.html
@@ -5,13 +15,7 @@ LINKS REFERENCED:
 - http://www.456bereastreet.com/archive/201306/how_to_proportionally_scale_images_that_have_dimension_attributes/
 - http://www.w3schools.com/ (a lot for various things)
 
-
-HOURS: 9
-
-- added redirect from www.cs.tufts.edu/~lfukus01
-
-TO DO:
-- fill out resume
-- write bio
-- add links to github and linkedin
+EXTRA (for me to do when I have the time):
+- add link to printable pdf on resume page
+- add links to github and linkedin in sidebar
 - add 'last updated' part in sidebar
